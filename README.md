@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<hi align-"center"> Hi there , I am Emmanuel Niamkey 👋</h1>
+<h1 align-"center"> Hi there , I am Emmanuel Niamkey 👋</h1>
