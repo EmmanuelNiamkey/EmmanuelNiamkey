@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <h1 align-"center"> Hi there , I am Emmanuel Niamkey 👋</h1>
 
-- 🌱 I’m currently learning <strong>Data Science with IBM </strong>
+- 🌱 I’m currently learning <strong>Cloud Security with Microsoft Azure </strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/yeniamkey/" target="_blank">Emmanuel Niamkey</a>
 - ⚡ Fun fact: I also have a youtube channel where I analyse football games <a href="https://www.youtube.com/channel/UC1qhsSmozX-ZjhFgPPvANzg" target="_blank"> Nitche L'Catalan </a>
